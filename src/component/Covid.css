@@ -1,0 +1,24 @@
+.tracker{
+    margin:0.1%;
+    background-color: #2a1a2c;
+}
+
+.tracker h1{
+    margin-left: 40%;
+    color: white;
+}
+
+.container{
+    margin-left: 10% !important;
+}
+
+.cards{
+    height: 24vh;
+    width: 30%;
+    background-color: #235687;
+    border: 2px solid white;
+    margin: 21px;
+    color: white;
+    padding-top: 3%;
+    padding-left: 5%;
+}
